@@ -1,18 +1,17 @@
 # Google Sheets CRM Automation
 
-Automated CRM workflow using Python and Google Sheets.
+Automated CRM workflow for lead management and sales tracking.
 
 ## Features
 
 - Lead Management
 - CRM Dashboard
-- Status Tracking
-- Follow-up Management
-- Google Sheets Integration
+- Revenue Tracking
+- Status Analytics
+- CSV Report Export
 
 ## Tech Stack
 
 - Python
 - Streamlit
 - Pandas
-- Google Sheets API
